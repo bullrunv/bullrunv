@@ -3,7 +3,7 @@
 I'm passionate about blockchain technology, information security, and system automation! 🚀  
 Here's what I do:
 
-- 🖥 Managing nodes on various blockchain networks (Polkadot, Kusama, Substrate, and others)
+- 🖥 Managing nodes on various blockchain networks (Polkadot, Kusama)
 - 📜 Coding in **Rust**, **Go**, **Python**, **Bash**, **TypeScript**, and a bunch of other languages
 - 🔐 Exploring cryptography and integrating it into blockchain projects
 - 🤖 Automating processes to keep everything running smoothly
